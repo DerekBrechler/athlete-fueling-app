@@ -1,7 +1,10 @@
-streamlit
-pandas
-joblib
-lightgbm
-scikit-learn
-matplotlib
-seaborn
+streamlit~=1.44.0
+pandas~=2.2.3
+joblib~=1.4.2
+lightgbm~=4.6.0
+scikit-learn~=1.6.1
+matplotlib~=3.9.4
+seaborn~=0.13.2
+
+shap~=0.47.1
+numpy~=2.0.2
